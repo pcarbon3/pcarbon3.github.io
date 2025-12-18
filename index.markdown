@@ -5,9 +5,10 @@
 
 layout: page
 title: Índex de recursos
+custom_css: index
 ---
 
-**Procés Tecnològic**  
+[**Procés Tecnològic**](/pagines/ProcesTecnologic.md)  
 La tecnologia, el procés tecnològic i el projecte tècnic.
 
 **Expressió Gràfica**  
