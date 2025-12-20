@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /procestecnologic/
+permalink: /procesTecnologic/
 ---
 
 <h1> Procés tecnològic </h1>
