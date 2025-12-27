@@ -67,7 +67,7 @@ A part, s'ha de calcular el **preu del pressupost** que és la suma de tots els 
 [Plantilla pressupost](../assets/files/procesTecnologic/Plantilla%20pressupost.ods)
 
 <h3> Exercicis i proves </h3>
-[Prova tecnologia, procés tecnològic i projecte tècnic](../assets/files/procesTecnologic/Prova%20tecnologia,%20procés%20tecnològic%20i%20projecte%20tècnic.docx.pdf)  
-[Prova tecnologia, procés tecnològic i projecte tècnic solucionari](../assets/files/procesTecnologic/Prova%20tecnologia,%20procés%20tecnològic%20i%20projecte%20tècnic%20solucionari.docx.pdf)  
-[Prova tecnologia, procés tecnològic i projecte tècnic adaptat](../assets/files/procesTecnologic/Prova%20tecnologia,%20procés%20tecnològic%20i%20projecte%20tècnic%20adaptat.docx.pdf)  
-[Prova tecnologia, procés tecnològic i projecte tècnic adaptat solucionari](../assets/files/procesTecnologic/Prova%20tecnologia,%20procés%20tecnològic%20i%20projecte%20tècnic%20adaptat%20solucionari.docx.pdf)
+Prova tecnologia, procés tecnològic i projecte tècnic [1r ESO] [Enllaç](../assets/files/procesTecnologic/Prova%20tecnologia,%20procés%20tecnològic%20i%20projecte%20tècnic.docx.pdf)  
+Prova tecnologia, procés tecnològic i projecte tècnic solucionari [1r ESO] [Enllaç](../assets/files/procesTecnologic/Prova%20tecnologia,%20procés%20tecnològic%20i%20projecte%20tècnic%20solucionari.docx.pdf)  
+Prova tecnologia, procés tecnològic i projecte tècnic adaptat [1r ESO] [Enllaç](../assets/files/procesTecnologic/Prova%20tecnologia,%20procés%20tecnològic%20i%20projecte%20tècnic%20adaptat.docx.pdf)  
+Prova tecnologia, procés tecnològic i projecte tècnic adaptat solucionari [1r ESO] [Enllaç](../assets/files/procesTecnologic/Prova%20tecnologia,%20procés%20tecnològic%20i%20projecte%20tècnic%20adaptat%20solucionari.docx.pdf)
