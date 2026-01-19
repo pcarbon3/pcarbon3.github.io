@@ -76,6 +76,7 @@ Crear els eixos pot ser una mica complicat i cal fer servir eines de dibuix tèc
 <h3> Exercicis i proves </h3>
 Prova expressió gràfica. [1r ESO] [Enllaç](../assets/files/expressioGrafica/Prova%20representació%20gràfica.docx.pdf)  
 Prova expressió gràfica adaptat. [1r ESO] [Enllaç](../assets/files/expressioGrafica/Prova%20representació%20gràfica%20adaptada.docx.pdf)  
+Prova expressió gràfica solucionari. [1r ESO] [Enllaç](../assets/files/expressioGrafica/Prova%20representació%20gràfica%20solucionari.pdf)  
 Prova escales i sistema dièdric. [2n ESO] [Enllaç](../assets/files/expressioGrafica/Prova%20dièdric%20i%20escales.pdf)  
 Prova escales i sistema dièdric adaptat. [2n ESO] [Enllaç](../assets/files/expressioGrafica/Prova%20dièdric%20i%20escales%20adaptat.pdf)  
 Prova expressió gràfica. [2n ESO] [Enllaç](../assets/files/expressioGrafica/Prova%20perspectives.pdf)  
