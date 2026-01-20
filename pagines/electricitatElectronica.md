@@ -134,3 +134,8 @@ Tots aquest conceptes poden ser molts alhora, a continuació hi ha una taula res
 <h3> Motors elèctrics i generadors </h3>
 
 <h3> Electricitat a casa </h3>
+
+<h3> Exercicis i proves </h3>
+Prova electricitat i magnetisme. Versió A. [2n ESO] [Enllaç](../assets/files/electricitatElectrònica/Prova%20electricitat%20i%20magnetisme%20A-1.pdf)  
+Prova electricitat i magnetisme. Versió B. [2n ESO] [Enllaç](../assets/files/electricitatElectrònica/Prova%20electricitat%20i%20magnetisme%20B-1.pdf)  
+Prova electricitat i magnetisme. Versió adaptada. [2n ESO] [Enllaç](../assets/files/electricitatElectrònica/Prova%20electricitat%20i%20magnetisme%20adaptat-1.pdf) 
