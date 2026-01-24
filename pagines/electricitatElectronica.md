@@ -127,15 +127,38 @@ Tots aquest conceptes poden ser molts alhora, a continuació hi ha una taula res
 
 <h3> Resolució de circuits </h3>
 
+[Comentari: Explicar com resoldre circuits simples, serie i paral·lel, i mixtes amb exemples d'exercicis]: #
+
 <h3> Energia i potència elèctrica </h3>
+L'energia elèctrica és la quantitat de **treball** que pot realitzar una màquina a través del corrent elèctric. Llavors, podem definir la **potència** elèctrica com el treball que podrà realitzar una màquina cada segon utilitzant electricitat ja que $$P=E/t$$ on E és energia elèctrica, P és potència elèctrica i t és temps. 
+
+Podem mesurar l'energia elèctrica que flueix o aporta un component a través de les magnituds de l'electricitat. Llavors podem dir que $$P=V*I$$ on P és potència elèctrica, V és voltatge i I és intensitat. De la mateixa manera, aplicant la llei d'Ohm podem deduïr que $$P=V^2/R$$ i que $$P=R*I^2*R$$ on R és resistència. Especialment interessant és la segona fòrmula on es pot veure que la potència és **directament proporcional** a la resistència i a la intensitat però amb la intensitat ho és al **quadrat**, cosa que fa que creixi molt ràpid la potència quan creix l'intensitat. 
+
+Per saber la intensitat només cal combinar les dues formules de la potència per saber que $$E=V*I*t$$. 
 
 <h3> Magnistisme i electromagnetisme </h3>
+El **magnetisme** és un camp molt extens dintre de la física però cal donar unes pinzellades per entendre algunes de les utilitats de l'electricitat. Un **imant** és un cos que té dos pols, el pol nord i el pol sud, i atrauen el **ferro** i tots els materials que el contenen. Els **imants** tenen una àrea al seu voltant a través de la qual afecta el magnetisme i flueix del pol sud al pol nord, aquesta àrea s'anomena **camp magnètic**. 
+![imant](../assets/images/electricitatElectronica/imant.png)
+
+Generalment els **imants** es creen a través de magnetitzar un material a través de exposar-lo a un imant molt fort. Però es pot crear un imant temporal a través de l'electrictat de forma senzilla. Quan l'electricitat flueix per un conductor, genera un **camp magnètic** molt petit al seu voltant. Si enrotllem un conductor moltes vegades creem una estructura que es diu bobina. Amb les bobines podem augmentar la força d'aquest **camp magnètic** i si s'introdueix un material magnètic dintre de la bobina podem augmentar encara més la força. Aquest tipus d'imant s'anomena **electroimant** i aquest fenòmen s'anomena **electromagnetisme**.
+
+![electroimant](../assets/images/electricitatElectronica/electroimant.png)
+
+De la mateixa manera que podem crear un **camp magnètic** a través del **corrent elèctric**, podem crear un **corrent elèctric** a través d'un **camp magnètic**. Si movem un **imant** al voltant d'un conductor podem observar com es produeix un corrent elèctric molt petit. Fent servir un **bobina** també podem augmentar el corrent elèctric que es genera per tal de fer-lo útil. 
+
+Els **electroimants** són útils en el nostre dia a dia per exemple per accionar mecanismes a distància. Per exemple, permet obrir portes de forma automàtica amb un sol botó a través d'un pany automàtic. I especialment són útils en els motors elèctrics i generadors com explicarem a continuació.
 
 <h3> Motors elèctrics i generadors </h3>
+Els **motors elèctrics** són màquines converteixen **energia elèctrica** en **energia mecànica** a través de l'**electromagnetisme**. Per tal de fer-ho, passa un **corrent elèctric** per la part de dintre anomenada **rotor** que conté moltes **bobines** i genera un **camp magnètic**. I el **rotor** està dintre d'una altra part anomenada **estator** que és un **imant**. Llavors, els dos imants es repel·len entre si i generen una força que fa girar el motor. 
 
-<h3> Electricitat a casa </h3>
+![Motor elèctric](../assets/images/electricitatElectronica/motorElectric.gif)
+
+Seguint aquest funcionament també podem fer girar el motor i generar un corrent elèctric. Com que hi imant que s'està movent al voltant d'un conductor, és genera un corrent elèctric en aquest. Aquesta màquina s'anomena **generador** i és la base de les centrals elèctriques. Un mateix motor elèctric pot funcionar com a **generador** o motor depenen de si rep un **corrent elèctric** o es fa girar el **motor** amb força externa. 
+
+[Comentari: Afegir una part d'electricitat a casa]: #
 
 <h3> Exercicis i proves </h3>
 Prova electricitat i magnetisme. Versió A. [2n ESO] [Enllaç](../assets/files/electricitatElectrònica/Prova%20electricitat%20i%20magnetisme%20A-1.pdf)  
 Prova electricitat i magnetisme. Versió B. [2n ESO] [Enllaç](../assets/files/electricitatElectrònica/Prova%20electricitat%20i%20magnetisme%20B-1.pdf)  
 Prova electricitat i magnetisme. Versió adaptada. [2n ESO] [Enllaç](../assets/files/electricitatElectrònica/Prova%20electricitat%20i%20magnetisme%20adaptat-1.pdf) 
+Prova electricitat i magnetisme. Solucionari. [2n ESO] [Enllaç](../assets/files/electricitatElectrònica/Prova%20electricitat%20i%20magnetisme%20solucionari.pdf)
