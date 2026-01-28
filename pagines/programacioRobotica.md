@@ -17,7 +17,7 @@ Per tal de practicar el pensament computacional proposo aquests exercicis ajusta
 
 
 <h3> Scratch <h3>
-
+A continuació 
 <h3> Python <h3>
 
 <h3> HTML i CSS <h3>
