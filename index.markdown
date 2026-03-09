@@ -17,7 +17,7 @@ Dibuix tècnic, sistema dièdric, perspectives i programari CAD.
 [**Materials**](/pagines/materials.md)  
 Propietats dels materials, fusta, metalls i plàstics.
 
-[**Estructures i Mecanismes** ](/pagines/estructuresMecanismes.md)  
+[**Estructures i Mecanismes**](/pagines/estructuresMecanismes.md)  
 Esforços, màquines simples, transmissió i transformació de moviment.
 
 [**Electricitat i Electrònica**](/pagines/electricitatElectronica.md)  
@@ -33,7 +33,7 @@ Pensament computacional, Scratch, Micro:bit, Python, HTML i CSS.
 Xarxes, ciberseguretat, programari d'ofimàtica i creació de contingut multimèdia.
 
 [**Exemples de projectes**](/pagines/exemplesProjectes.md)  
-Documentació i multimèdia de projectes duts a terme amb èxit 
+Documentació i multimèdia de projectes duts a terme amb èxit
 
 [**Recursos docents**](/pagines/recursosDocents.md)  
 Recopilatori de recursos docents utilitzats propis o externs
