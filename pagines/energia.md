@@ -51,6 +51,31 @@ Finalment hi ha el transformador. El transformador agafa l'energia elèctrica de
 
 A continuació comencem a parlar sobre els diferents tipus de centrals elèctriques que hi ha i les seves particularitats.
 
+**Centrals tèrmiques convencionals**  
+Les centrals tèrmiques convencionals són aquelles que utilitzen combustibles per tal de generar l'energia necessària. Aquests combustibles generalment són combustibles fòssils com ara carbó, gas natural o gasoil però també existeixen les centrals tèrmiques de RSU (Residus sòlids urbans) on el combustible són els residus que es generen en les ciutats.
+
+Els passos que  segueix l'energia són els següents:
+
+- Química → Tèrmica: El combustible es crema a la caldera, alliberant calor que s'utilitza per bullir aigua.
+- Tèrmica → Cinètica: L'aigua es converteix en vapor a pressió que es canalitza cap a les turbines.
+- Cinètica → Elèctrica: El vapor fa girar les pales de la turbina, que està connectada a un alternador.
+
+Les centrals tèrmiques convencional es poden dividir en cinc zones clau:
+
+- La caldera: És el forn on es produeix la combustió. Està envoltada de tubs per on circula aigua que es transforma en vapor a temperatures molt altes.
+- La turbina: Un conjunt d'eixos amb pales que giren amb molta força quan el vapor hi passa.
+- L'alternador: Està unit a l'eix de la turbina i generen el corrent elèctric a través del moviment de la turbina.
+- El condensador: Un intercanviador de calor on el vapor, després de passar per la turbina, es torna a refredar per convertir-se en aigua líquida i tornar a començar el cicle.
+- La xemeneia: Per on surten els fums resultants de la crema del combustible prèviament filtrats.
+
+**Centrals nuclears**
+
+**Centrals hidroelèctriques**
+
+**Centrals eòliques**
+
+**Centrals solars fotovoltaiques**
+
 <h3> Transport i distribució de l'energia </h3>
 Hem treballat fins ara com es genera l'energia a les centrals elèctriques però on es necessita l'electricitat és a les cases, fàbriques i ciutats. En un primer moment es pot pensar que la millor manera és emmagatzemar aquesta electricitat i després utilitzar-la on i quan interessi. Però, tot i que si que existeixen les bateries elèctriques, les bateries disponibles no són prou grans ni duren prou com per fer que aquesta idea sigui possible. Per tant, necessitem utilitzar l'electricitat al mateix moment que es genera i ha de ser la mateixa quantitat. Aixó genera molts problemes on durant el dia es necessiten diferents quantitats d'electricitat a diferents hores. Aquí es especialment evident un dels punts febles de l'energia solar i eòlica que és la seva disponibilitat variable. Aquestes fonts d'energia no poden ser la base de la generació d'energia quan no sabem si estaràn disponibles aquell dia o en aquell moment. Per tant, l'energia solar i eòlica estan destinades a tenir un paper secundàri fins que es pugui solucionar aquest inconvenient.
 
