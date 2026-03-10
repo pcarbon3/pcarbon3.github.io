@@ -20,6 +20,9 @@ Propietats dels materials, fusta, metalls i plàstics.
 [**Estructures i Mecanismes**](/pagines/estructuresMecanismes.md)  
 Esforços, màquines simples, transmissió i transformació de moviment.
 
+[**Màquines tèrmiques**](/maquinesTermiques)  
+Màquina de vapor, motors, turbines, màquines frigorífiques i bombes de calor.
+
 [**Electricitat i Electrònica**](/pagines/electricitatElectronica.md)  
 Principis físics, circuits, components, llei d'Ohm i electrònica analògica/digital.
 
