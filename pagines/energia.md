@@ -193,5 +193,5 @@ A continuació hi ha unes presentacions realitzades a classe sobre centrals elè
 - Central eòlica. [Presentació 1](/assets/files/energia/Presentació%20eòlica%201.pdf) [Presentació 2](/assets/files/energia/Presentacio%20eòlica%202.pdf)
 - Central solar fotovoltaica. [Presentació 1](/assets/files/energia/Presentació%20solars%201.pdf) [Presentació 2](/assets/files/energia/Presentació%20solars%202.pdf)
 
-<h3> Exemples i exercicis </h3>
+<h3> Exercicis i proves </h3>
 Prova centrals elèctriques. [2n ESO] [Enllaç](../assets/files/energia/Prova%20centrals%20elèctriques.pdf)  
