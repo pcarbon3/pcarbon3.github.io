@@ -130,5 +130,5 @@ Fixa't en aquesta animació per entendre com les vàlvules s'obren i es tanquen 
 <h3> Infografies </h3>
 A continuació hi ha algunes infografies realitzades per alumnes sobre màquines de vapor i motors de quatre temps:
 
-- Màquina de vapor [Infografia 1](../assets/files/maquinesTermiques/maquinaVapor.jpg)
-- Motor 4T [Infografia 1](../assets/files/maquinesTermiques/motor4T1.jpg) [Infografia 2](../assets/files/maquinesTermiques/motor4T2.jpg)
+- Màquina de vapor [Infografia 1](../assets/files/maquinesTermiques/maquinaVapor.jpg) [Infografia 2](../assets/files/maquinesTermiques/maquinaVapor2.jpg)
+- Motor 4T [Infografia 1](../assets/files/maquinesTermiques/motor4T1.jpg) [Infografia 2](../assets/files/maquinesTermiques/motor4T2.jpg) [Infografia 3](../assets/files/maquinesTermiques/motor4T3.jpg)
