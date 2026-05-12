@@ -17,8 +17,11 @@ Dibuix tècnic, sistema dièdric, perspectives i programari CAD.
 [**Materials**](/pagines/materials.md)  
 Propietats dels materials, fusta, metalls i plàstics.
 
-[**Estructures i Mecanismes**](/pagines/estructuresMecanismes.md)  
-Esforços, màquines simples, transmissió i transformació de moviment.
+[**Estructures**](/estructures)  
+Esforços, estructures i propietats mecàniques dels materials.
+
+[**Màquines simples**](/maquinesSimples)  
+Màquines simples, transmissió i transformació de moviment.
 
 [**Màquines tèrmiques**](/maquinesTermiques)  
 Màquina de vapor, motors, turbines, màquines frigorífiques i bombes de calor.
