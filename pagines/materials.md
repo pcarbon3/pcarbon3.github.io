@@ -131,6 +131,7 @@ Per acabar, classificarem el plàstic en diferents grups:
 <h3> Exercicis i proves </h3>
 Exercici de correció d'un anàlisi d'un cas sobre reixes [1r ESO] [Enllaç](../assets/files/materials/Activitats%20casos%20reixa%20materials.pdf)  
 Exercici d'anàlisi d'un cas sobre un pont [1r ESO] [Enllaç](../assets/files/materials/Anàlisi%20cas%20pont%20materials.pdf)  
+Exemple de mapa conceptual materials [Enllaç](../assets/files/materials/mapaConceptual.pdf)
 
 
 

@@ -16,6 +16,10 @@ A sota us deixo alguns exemples de mapes conceptuals:
 ![Mapa Conceptual 2](/assets/images/recursosDocents/mapaConceptual%20(2).png)
 ![Mapa Conceptual 3](/assets/images/recursosDocents/mapaConceptual%20(3).png)
 
+I un exemple realitzat a classe sobre el tema de materials:
+
+Mapa conceptual de materials. [Enllaç](/assets/files/materials/mapaConceptual.pdf)
+
 [Comentari: Si faig servir webs per fer mapes conceptuals, posar-les]: #
 [Comentari: Posar exemples de mapes conceptuals fets pels meus alumnes]: #
 
